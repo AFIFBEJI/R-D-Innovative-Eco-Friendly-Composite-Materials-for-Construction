@@ -6,6 +6,26 @@
 
 This research aims to develop innovative and environmentally friendly composite materials for the construction industry. The core of the project involves utilizing two types of waste to manufacture cement mortars suitable for general construction and ecological paving blocks. We will employ **Response Surface Methodology (RSM)** to predict and optimize the physical and mechanical properties of these novel mortars.
 
+**Project ID:** R&D Eco-materials #N°1
+
+---
+
+### Project Personnel
+
+* **Supervisors:**
+    * **Taheni Kallel, Ing., PhD.**
+        * *Role:* Assistant Professor & Project Supervisor
+        * *Institution:* ESPRIT, School of Engineers
+    * **Afif Beji, Ing., M.Sc.**
+        * *Role:* Assistant Professor & Project Co-Supervisor
+        * *Institution:* ESPRIT, School of Engineers
+* **Intern:**
+    * **Gilles Aubin Ndambwe**
+        * *Role:* Final Year Engineering Student
+        * *Institution:* ESPRIT, School of Engineers
+
+---
+
 ### Materials
 
 The primary components for this study include:
@@ -46,9 +66,9 @@ This section outlines the computational framework for predicting and optimizing 
 
 ---
 
-## ✨ Graphical User Interface (GUI) using CustomTkinter
+## ✨ Graphical User Interface (GUI)
 
-To enhance user experience and streamline the research process, a modern and intuitive Graphical User Interface (GUI) will be developed using the **CustomTkinter** library.
+To enhance user experience and streamline the research process, a modern and intuitive Graphical User Interface (GUI) will be developed using the **CustomTkinter** library in Python.
 
 
 
@@ -83,13 +103,13 @@ pip install customtkinter pillow openpyxl xlrd pyDOE2
 ```
 
 ### Quick Start
-1.  **Clone the repository:**
+1.  **Clone the repository (replace with your final URL):**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/AFIFBEJI/R-D-Innovative-Eco-Friendly-Composite-Materials-for-Construction.git](https://github.com/AFIFBEJI/R-D-Innovative-Eco-Friendly-Composite-Materials-for-Construction.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repository-name
+    cd R-D-Innovative-Eco-Friendly-Composite-Materials-for-Construction
     ```
 3.  **Install dependencies:**
     ```bash

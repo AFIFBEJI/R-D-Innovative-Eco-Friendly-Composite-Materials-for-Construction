@@ -13,10 +13,10 @@ This research aims to develop innovative and environmentally friendly composite 
 ### Project Personnel
 
 * **Supervisors:**
-    * **Taheni Kallel, Ing., PhD.**
+    * **Taheni Kallel, Eng., PhD.**
         * *Role:* Assistant Professor & Project Supervisor
         * *Institution:* ESPRIT, School of Engineers
-    * **Afif Beji, Ing., M.Sc.**
+    * **Afif Beji, Eng., M.Sc.**
         * *Role:* Assistant Professor & Project Co-Supervisor
         * *Institution:* ESPRIT, School of Engineers
 * **Intern:**
